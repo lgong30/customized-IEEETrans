@@ -16,7 +16,7 @@ using a horizontal line to represent authors, if a reference happens to have the
 
 Other customizations might also be very useful.
 
-> forcing to show full name in all references (useful when using in resume): change [line 132](https://github.com/lgong30/customized-IEEETrans/blob/master/IEEEtran.bst#L132) to  
+- forcing to show full name in all references (useful when using in resume): change [line 132 of IEEEtran.bst](https://github.com/lgong30/customized-IEEETrans/blob/master/IEEEtran.bst#L132) to  
   
   ```TeX
   FUNCTION {default.name.format.string}{ "{ff}{vv~}{ll}{, jj}" }
